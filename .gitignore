@@ -29,3 +29,8 @@ dist/
 nbdist/
 nbactions.xml
 nb-configuration.xml
+# IntelliJ project files
+*.iml
+*.iws
+*.ipr
+.idea/
